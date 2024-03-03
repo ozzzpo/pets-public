@@ -1,3 +1,6 @@
+## Клонирование репозитория
+Для дальнейших действий, запустите команду `git clone https://github.com/ozzzpo/pets-public` в той директории, откуда вы хотите запускать проект.
+
 ## Запуск проекта
 Для быстрого теста приложения перейдите на стабильную деплой версию: [https://pets-public-6udhywkmn-ozzzpos-projects.vercel.app/](https://pets-public-6udhywkmn-ozzzpos-projects.vercel.app/)
 Перед запуском проекта установите зависимости с помощью команд:
