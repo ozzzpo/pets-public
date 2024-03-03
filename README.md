@@ -1,6 +1,6 @@
 ## Клонирование репозитория
 Для дальнейших действий, запустите команду 
-###`git clone https://github.com/ozzzpo/pets-public` 
+### `git clone https://github.com/ozzzpo/pets-public` 
 в той директории, откуда вы хотите запускать проект.
 
 ## Запуск проекта
